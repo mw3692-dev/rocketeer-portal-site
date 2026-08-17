@@ -1,0 +1,715 @@
+{
+  "basketball": {
+    "title": "Basketball Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "volleyball": {
+    "title": "Volleyball Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "cycling": {
+    "title": "Cycling Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "mma": {
+    "title": "MMA Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "egames": {
+    "title": "eGames Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "motorcycle": {
+    "title": "Motorcycle Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "pickleball": {
+    "title": "Pickleball Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "running": {
+    "title": "Running Club Sign-Up",
+    "group": "Sports & Hobby",
+    "description": "Explore our diverse range of employee-led clubs and sign up today to bond with colleagues over shared interests, whether you're looking to hit the field or master a new craft.",
+    "fields": [
+      {
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Other Non-RS Contact Details",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Full address where we can send the merch",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "cvc-nominate": {
+    "title": "Core Value Champion Nomination",
+    "group": "Recognition",
+    "description": "Purpose: This form is designed to recognize and celebrate team members who consistently embody our company’s mission and demonstrate our core values through their daily actions and professional excellence.",
+    "fields": [
+      {
+        "label": "Name of Nominee",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Email Address of Nominee",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Core Value Demonstrated",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Reason for Nomination",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Supporting Documents",
+        "type": "file",
+        "required": false,
+        "options": []
+      }
+    ]
+  },
+  "rs-cares-volunteer": {
+    "title": "Rocket Station Cares — Volunteer Sign-Up",
+    "group": "Community",
+    "description": "This form collects the information needed to coordinate future volunteer initiatives while keeping signup simple.",
+    "fields": [
+      {
+        "label": "1. Full Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "2. Mobile Number",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "3. Current City / Municipality & Province",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "4. Are you willing to travel for volunteer activities?",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Only within my city/municipality",
+          "Anywhere within my province",
+          "Nearby provinces",
+          "Anywhere in the Philippines (when feasible)"
+        ]
+      },
+      {
+        "label": "5. Which Rocket Station Cares activities are you interested in? (Select all that apply)",
+        "type": "checkbox",
+        "required": true,
+        "options": [
+          "Community Outreach",
+          "Education / School Programs",
+          "Feeding Programs",
+          "Environmental Activities (Tree Planting, Clean-up Drives, etc.)",
+          "Disaster Relief",
+          "Medical Missions",
+          "Animal Welfare",
+          "Senior Citizen Programs",
+          "Children’s Programs",
+          "Fundraising Activities",
+          ""
+        ]
+      },
+      {
+        "label": "6. How would you like to contribute? (Select all that apply)",
+        "type": "checkbox",
+        "required": true,
+        "options": [
+          "Volunteer during events",
+          "Help organize events",
+          "Assist with logistics",
+          "Photography / Videography",
+          "Social Media / Content Creation",
+          "Administrative Support",
+          "Donate supplies when needed",
+          "Offer professional skills",
+          "I’m open to helping wherever needed"
+        ]
+      },
+      {
+        "label": "7. Skills or Certifications (Optional)",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "8. Are you interested in helping lead or coordinate future Rocket Station Cares activities? (Optional)",
+        "type": "radio",
+        "required": false,
+        "options": [
+          "Yes",
+          "Maybe in the future",
+          "Not at this time"
+        ]
+      },
+      {
+        "label": "9. How often would you like to volunteer?",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Whenever I’m available",
+          "Once every few months",
+          "During major Rocket Station Cares events only",
+          "I’ll decide on a case-by-case basis"
+        ]
+      },
+      {
+        "label": "10. Physical Limitations or Accessibility Needs (Optional)",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "11. Additional Information (Optional)",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "12. Volunteer Consent",
+        "type": "checkbox",
+        "required": true,
+        "options": [
+          "I understand that submitting this form expresses my interest in volunteering for Rocket Station Cares. Participation in future activities is completely voluntary, and I may choose whether or not to join each opportunity as opportunities become available."
+        ]
+      }
+    ]
+  },
+  "jot-hopeline": {
+    "title": "Hopeline Session Request",
+    "group": "Wellness",
+    "description": "",
+    "fields": [
+      {
+        "label": "Name",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Age",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Location",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Rocket Station email",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Contact number",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Contractor type",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Support",
+          "Remote Teammate"
+        ]
+      },
+      {
+        "label": "Preferred Session",
+        "type": "select",
+        "required": true,
+        "options": [
+          "ZOOM Video call",
+          "ZOOM Audio call"
+        ]
+      },
+      {
+        "label": "What's your reason for consultation?",
+        "type": "radio",
+        "required": false,
+        "options": [
+          "Emotional and mental challenges (example: Difficulty handling emotions, anxiety, trauma, depression, grief or loss, suicidal thoughts, etc)",
+          "Well-being concerns (example: work stress, productivity issues, family problems, relationship problems, sleep problems, problem with peers, settings goals, habit formation and general wellness, etc)",
+          "Needs someone to talk to"
+        ]
+      },
+      {
+        "label": "Concern that you wanted to discuss or issues you’d like to focus on",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Preferred date and time (example: MWF, 7PM PHT)",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Emergency Contact Name",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Emergency Contact Number",
+        "type": "tel",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Relationship",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Purpose",
+        "type": "textarea",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "jot-hmo-dependent": {
+    "title": "HMO Dependent Enrollment",
+    "group": "Benefits",
+    "description": "",
+    "fields": [
+      {
+        "label": "Name",
+        "type": "fullname",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Contractor ID",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Gender",
+        "type": "select",
+        "required": true,
+        "options": [
+          "FEMALE",
+          "MALE"
+        ]
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Civil Status",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Single",
+          "Married",
+          "Widowed",
+          "Legally Separated"
+        ]
+      },
+      {
+        "label": "Relationship",
+        "type": "select",
+        "required": true,
+        "options": [
+          "SPOUSE",
+          "FATHER",
+          "MOTHER",
+          "SIBLING",
+          "SON",
+          "DAUGHTER"
+        ]
+      },
+      {
+        "label": "UPLOAD SUPPORTING DOCUMENT/S",
+        "type": "file",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  "jot-contractor-update": {
+    "title": "Contractor Record Update Request",
+    "group": "My Work",
+    "description": "",
+    "fields": [
+      {
+        "label": "Full Name",
+        "type": "fullname",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Contractor ID",
+        "type": "text",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Nickname",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Civil Status",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Single",
+          "Married",
+          "Widowed",
+          "Legally Separated",
+          "Annulled"
+        ]
+      },
+      {
+        "label": "Birth Date",
+        "type": "date",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Birth Place",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Home Address",
+        "type": "address",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Region",
+        "type": "select",
+        "required": false,
+        "options": [
+          "MIMAROPA",
+          "Calabarzon",
+          "NCR",
+          "CAR",
+          "Region I",
+          "Region II",
+          "Region III",
+          "Region V",
+          "Region VI",
+          "Region VII",
+          "Region VIII",
+          "Region IX",
+          "Region X",
+          "Region XI",
+          "Region XII"
+        ]
+      },
+      {
+        "label": "SSS #",
+        "type": "number",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "TIN #",
+        "type": "number",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Pagibig #",
+        "type": "number",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Philhealth #",
+        "type": "number",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Primary Mobile Number",
+        "type": "tel",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Secondary Mobile Number",
+        "type": "tel",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Primary Landline Number",
+        "type": "tel",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Secondary Landline Number",
+        "type": "tel",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Personal Email Address",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Delivery Address (shipment of RS related items)",
+        "type": "address",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Contractor Type",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Remote Teammate",
+          "Support"
+        ]
+      },
+      {
+        "label": "Start Date with Rocket Station",
+        "type": "date",
+        "required": true,
+        "options": []
+      },
+      {
+        "label": "Rocket Station Email Address",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Emergency Contact Name",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Relationship to Emergency Contact Person",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Spouse",
+          "Life Partner (not married)",
+          "Parent",
+          "Sibling",
+          "Relative"
+        ]
+      },
+      {
+        "label": "Emergency Contact Mobile",
+        "type": "tel",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Emergency Contact Landline",
+        "type": "tel",
+        "required": false,
+        "options": []
+      },
+      {
+        "label": "Emergency Contact Address",
+        "type": "address",
+        "required": false,
+        "options": []
+      }
+    ]
+  }
+}

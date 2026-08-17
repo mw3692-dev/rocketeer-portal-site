@@ -50,3 +50,10 @@ Plain HTML/CSS/JS, no build step.
 ## Visibility
 
 This repo is **public but unlisted** — every page carries `<meta name="robots" content="noindex, nofollow">` so search engines don't index it. It is intended for internal review only; the content is not password-protected, so treat the repo/site URL as shareable-with-the-team but not for public distribution.
+
+## Versions
+
+- **V1** (root) — mimic with buttons pointing at the **live Google/Jotform** URLs.
+- **V2** (`/v2/`) — same site, but every form button opens the **self-hosted replacement** in `v2/forms/` instead of Google. This is the drop-in for when Google is retired (wire each form's `data-endpoint` to a backend — see `forms/README.md`). Marked with a gold **V2** badge in the nav.
+
+Live: `…/rocketeer-portal-site/` (V1) and `…/rocketeer-portal-site/v2/` (V2).
