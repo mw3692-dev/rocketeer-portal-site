@@ -46,3 +46,7 @@ Plain HTML/CSS/JS, no build step.
   banner assets when available.
 - Fonts: **Poppins** (headings) + **Inter** (body) as close substitutes for the
   original theme fonts.
+
+## Visibility
+
+This repo is **public but unlisted** — every page carries `<meta name="robots" content="noindex, nofollow">` so search engines don't index it. It is intended for internal review only; the content is not password-protected, so treat the repo/site URL as shareable-with-the-team but not for public distribution.
